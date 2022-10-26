@@ -1,4 +1,4 @@
-# shopping-days
+# website-template
 
 This is a demo website.
 
